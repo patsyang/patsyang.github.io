@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://patsyang.github.io</id>
+    <title>修远_非著名安全奋斗者</title>
+    <updated>2021-12-02T15:09:23.903Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://patsyang.github.io"/>
+    <link rel="self" href="https://patsyang.github.io/atom.xml"/>
+    <subtitle>路漫漫其修远兮，吾将上下而求索</subtitle>
+    <logo>https://patsyang.github.io/images/avatar.png</logo>
+    <icon>https://patsyang.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, 修远_非著名安全奋斗者</rights>
+    <entry>
+        <title type="html"><![CDATA[上海市数据条例]]></title>
+        <id>https://patsyang.github.io/post/shang-hai-shi-shu-ju-tiao-li/</id>
+        <link href="https://patsyang.github.io/post/shang-hai-shi-shu-ju-tiao-li/">
+        </link>
+        <updated>2021-12-02T14:36:40.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
+<p>2020年《中共中央 国务院关于构建更加完善的要素市场化配置体制机制的意见》指出，数据作为一种新型生产要素，引导培育大数据交易市场，依法合规开展数据交易。数据交易对于推动经济高质量发展，促进全面数字化转型的重要作用日益凸显。可以说，未来城市的竞争是数据的竞争，是数据交易规模的竞争！<br>
+2021年11月25日，上海市第十五届人大常委会第三十七次会议表决通过了《上海市数据条例》（以下简称“《数据条例》”），自2022年1月1日起正式施行。11月29日，上海人大发布《数据条例》全文，共十章九十一条，分为总则、数据权益保障、公共数据、数据要素市场、数据资源开发和应用、浦东新区数据改革、长三角区域数据合作、数据安全、法律责任和附则。</p>
+]]></content>
+    </entry>
+</feed>
